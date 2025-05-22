@@ -2,6 +2,6 @@
 - 👀 I’m interested in backend development, Java programming, and building real-world applications  
 - 🌱 I’m currently learning JavaFX, JDBC, and full-stack project development  
 - 💞️ I’m looking to collaborate on beginner-friendly Java projects, backend systems, and internship-level tasks  
-- 📫 How to reach me: pusdekarshravan@gmail.com | [LinkedIn](https://www.linkedin.com/in/ShravanPusdekar)  
+- 📫 How to reach me: shravanpusdekar16@gmail.com | [LinkedIn](https://www.linkedin.com/in/shravan-pusdekar-b03574266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I can turn coffee into clean, efficient Java code ☕💻  
