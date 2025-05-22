@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @ShravanPusdekar  
+- 👀 I’m interested in backend development, Java programming, and building real-world applications  
+- 🌱 I’m currently learning JavaFX, JDBC, and full-stack project development  
+- 💞️ I’m looking to collaborate on beginner-friendly Java projects, backend systems, and internship-level tasks  
+- 📫 How to reach me: pusdekarshravan@gmail.com | [LinkedIn](https://www.linkedin.com/in/ShravanPusdekar)  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I can turn coffee into clean, efficient Java code ☕💻  
