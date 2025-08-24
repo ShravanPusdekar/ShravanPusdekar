@@ -56,7 +56,7 @@
 ### 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydhurve09&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShravanPusdekar&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
