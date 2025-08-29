@@ -9,31 +9,7 @@
   <em>Blending creativity with code to build meaningful tech experiences.</em>
 </p>
 
----
-### 🚀 Featured Projects
-
-<div align="center">
-
-  <!-- First row -->
-  <a href="https://github.com/jaydhurve09/Realtime-Chat-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=Realtime-Chat-App&theme=radical" />
-  </a>
-  <a href="https://github.com/jaydhurve09/Job-Application-using-Java-Spring-Boot" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=Job-Application-using-Java-Spring-Boot&theme=radical" />
-  </a>
-
-  <br>
-
-  <!-- Second row -->
-  <a href="https://github.com/jaydhurve09/Pong-Game" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=Pong-Game&theme=radical" />
-  </a>
-  <a href="https://github.com/jaydhurve09/To-do-List-App" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydhurve09&repo=To-do-List-App&theme=radical" />
-  </a>
-
-</div>
----
+------
 
 ### 👨‍💻 About Me
 
