@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShravanPusdekar&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ShravanPusdekar&theme=radical" alt="GitHub Streak" height="160"/>
+ 
 </p>
 
 ---
